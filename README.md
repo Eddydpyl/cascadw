@@ -5,6 +5,6 @@ Read "choose your own adventure" books made by the community, upvote your favori
 
 <p align="center">
   <img src="/assets/screenshots/cascadw_01.jpg" alt="screenshot-1" width="250"/>
-  <img src="/assets/screenshots/cascadw_03.jpg" alt="screenshot-1" width="250"/>
-  <img src="/assets/screenshots/cascadw_04.jpg" alt="screenshot-1" width="250"/>
+  <img src="/assets/screenshots/cascadw_03.jpg" alt="screenshot-2" width="250"/>
+  <img src="/assets/screenshots/cascadw_04.jpg" alt="screenshot-3" width="250"/>
 </p>
