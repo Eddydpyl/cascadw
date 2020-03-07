@@ -1,4 +1,4 @@
-# Cascadw [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Status: abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
+# Cascadw [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Status: abandoned](https://img.shields.io/badge/Status-Abandoned-red.svg)
 
 Read "choose your own adventure" books made by the community, upvote your favorite chapters, or even write your own. A simple open-source application made with Flutter.
 <br><br>
